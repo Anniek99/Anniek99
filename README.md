@@ -7,7 +7,7 @@ Portfolio with photos and videos: https://anniek99.github.io
 | Project | What the code does | Repo |
 |---|---|---|
 | GI Tracked | ESP32-S3 firmware that logs sensor data with timestamps| [link](https://github.com/Anniek99/GI-Tracked) |
-| TheraPhono | Model that detects trigger sounds (YAMNet + my classifier) | [link](https://github.com/Anniek99/REPO-NAME) |
+| TheraPhono | Model that detects trigger sounds (YAMNet + my classifier) | [link](https://github.com/Anniek99/Misophonia-Classifier) |
 | Gripster | ESP32 grip-force sensor that controls a browser game over Bluetooth | [link](https://github.com/YellinHenry/Gripster-GripHero2.0-) |
 | HeadHush | ESP32 web app and touch controls for a heated, vibrating beanie | [link](https://github.com/Anniek99/Head.Hush) |
 | Cast-It | ESP32 force-sensor code that flags pressure above a safe threshold | [link](https://github.com/Anniek99/REPO-NAME) |
